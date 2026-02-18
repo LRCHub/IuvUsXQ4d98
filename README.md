@@ -1,0 +1,71 @@
+# lol-エルオーエル- – sync
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+運命なんて信じてないと
+目を逸らしてた
+カタチのないものはそう全て
+壊れやすくて
+キミは何も言わず見つめてた
+この胸の中
+そっと手を伸ばして包んだ
+壊れない様に
+you know what time is it?
+溢れ出してくwannabees
+それが現実 yeah that's what it is
+音も立てずに近づき
+we gotta blast off them all and rest in peace
+忘れていた感覚が今
+二つを一つにシンクロさせる
+blaze away!
+baby don't be afraid!
+二つの光が
+yo feel no pain
+blast away!
+throw away like grenade!
+重なりあう度に
+痛みも涙も全て
+傷つけ傷つきながら
+slash me with your blade
+一つの未来へ 輝き続けてく
+霞んで見えていた未来が
+晴れ渡っていく
+一つまた一つ夜越える度
+強くなってく
+キミの愛をそう求めすぎて
+不安になるけど
+微笑み受け止める僕の全て
+壊れない様に
+bring that beat back!
+かき消すdestiny
+振り払ってくenemies
+but のしかかりだすgravity
+二人で残すのさlegacy
+霞んでいた世界を今
+キミがいるから歩いていける
+blaze away!
+baby don't be afraid!
+二つの願いが
+yo feel no pain
+blast away!
+throw away like grenade!
+ひとつになる度に
+不安や悲しみ全て
+キミの手握りしめながら
+slash me with your blade
+二人の未来へ 輝き続けてく
+忘れていた感覚が今
+二つを一つにシンクロさせる
+blaze away!
+baby don't be afraid!
+二つの光が
+yo feel no pain
+blast away!
+throw away like grenade!
+重なりあう度に
+痛みも涙も全て
+傷つけ傷つきながら
+slash me with your blade
+一つの未来へ 輝き続けてく
+```
