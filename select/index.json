@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "sync",
+  "base_artist": "lol-エルオーエル-",
+  "createdAt": "2026-02-18T18:56:27.077829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Out of Sync",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/01_Out_of_Sync_Devo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Morning Britain (Kitsch 'n' Sync Mix)",
+      "artist": "Aztec Camera",
+      "has_synced": false,
+      "path": "select/02_Good_Morning_Britain_(Kitsch_'n'_Sync_Mix)_Aztec_Camera.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trashin' the Camp (Phil and 'N Sync Version)",
+      "artist": "*NSYNC feat. Phil Collins",
+      "has_synced": false,
+      "path": "select/03_Trashin'_the_Camp_(Phil_and_'N_Sync_Version)_NSYNC_feat._Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trashin' the Camp (Phil and 'N Sync Version)",
+      "artist": "Phil Collins *NSYNC",
+      "has_synced": false,
+      "path": "select/04_Trashin'_the_Camp_(Phil_and_'N_Sync_Version)_Phil_Collins__NSYNC.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sync",
+      "artist": "Kingdom Of Giants",
+      "has_synced": true,
+      "path": "select/05_Sync_Kingdom_Of_Giants.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bring It All to Me (feat. 'n Sync)",
+      "artist": "Blaque",
+      "has_synced": true,
+      "path": "select/06_Bring_It_All_to_Me_(feat._'n_Sync)_Blaque.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "N-Sync / Bye Bye Bye",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/07_N-Sync___Bye_Bye_Bye_Various.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bye, Bye, Bye ('N Sync Cover)",
+      "artist": "Further Seems Forever",
+      "has_synced": true,
+      "path": "select/08_Bye,_Bye,_Bye_('N_Sync_Cover)_Further_Seems_Forever.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trashin' the Camp (Phil and 'N Sync version)",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/09_Trashin'_the_Camp_(Phil_and_'N_Sync_version)_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lip Sync - Xenophobia Edit",
+      "artist": "Attrition",
+      "has_synced": false,
+      "path": "select/10_Lip_Sync_-_Xenophobia_Edit_Attrition.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Is in Sync, And There's Nothing Left to Sing About",
+      "artist": "Ghost Atlas",
+      "has_synced": true,
+      "path": "select/11_All_Is_in_Sync,_And_There's_Nothing_Left_to_Sing_About_Ghost_Atlas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Am I In Sync?",
+      "artist": "Circle of Dust",
+      "has_synced": false,
+      "path": "select/12_Am_I_In_Sync_Circle_of_Dust.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Sync - Live",
+      "artist": "Hillsong Young & Free",
+      "has_synced": true,
+      "path": "select/13_In_Sync_-_Live_Hillsong_Young_&_Free.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In Sync",
+      "artist": "Hillsong Young & Free",
+      "has_synced": true,
+      "path": "select/14_In_Sync_Hillsong_Young_&_Free.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Am I In Sync?",
+      "artist": "Steve Taylor",
+      "has_synced": false,
+      "path": "select/15_Am_I_In_Sync_Steve_Taylor.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Am I In Sync[Now The Truth Can Be Told Album Version]",
+      "artist": "Steve Taylor",
+      "has_synced": false,
+      "path": "select/16_Am_I_In_Sync[Now_The_Truth_Can_Be_Told_Album_Version]_Steve_Taylor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sync",
+      "artist": "lol",
+      "has_synced": false,
+      "path": "select/pl_01_sync_lol.txt"
+    }
+  ]
+}
